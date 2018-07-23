@@ -1,14 +1,8 @@
 # Product Recommender System
 
-This Project deals with identifying and predicting the most relevant products for
-an user based on his/her previous interaction. We are interacting with the recom-
-mender systems in our day-to-day life like product recommendation in e-commerce
-sites (Amazon, Flipkart), friend recommendation in social networking sites (Face-
-book, Instagram), movie and video recommendation in YouTube, Netflix and job
-recommendation in Linkedin etc.
+This Project deals with identifying and predicting the most relevant products for an user based on his/her previous interaction. We are interacting with the recommender systems in our day-to-day life like product recommendation in e-commerce sites (Amazon, Flipkart), friend recommendation in social networking sites (Facebook, Instagram), movie and video recommendation in YouTube, Netflix and job recommendation in Linkedin etc.
 
- Based on the research on some existing models and algorithms, we make application-
- specific three recommendation systems -
+Based on the research on some existing models and algorithms, we make application specific three recommendation systems -
 
 1. User-User Collaborative Filtering using Pearson similarity- In user based recom-
 mender system, we look for users who share the same rating patterns with the active
